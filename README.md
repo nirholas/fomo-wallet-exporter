@@ -73,7 +73,3 @@ fomo has no endpoint that lists every user, so "all" means every trader reachabl
 ## Disclaimer
 
 This is an unofficial tool with no affiliation to fomo. It relies on fomo's undocumented private API, which can change without notice, and it only reads data your logged-in account can already see. Respect fomo's terms of service and use it responsibly.
-
-## License
-
-[MIT](LICENSE)
